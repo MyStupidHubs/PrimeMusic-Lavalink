@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "9khkszyl",
       password: "UHrg5iqJVE0",
-      host: "http://thor.pylex.software/",
-      port:  11967,
+      host: "104.167.222.158",
+      port:  7598,
       secure: false
     }
   ]
