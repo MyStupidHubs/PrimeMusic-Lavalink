@@ -3,7 +3,7 @@
 module.exports = {
   TOKEN: "",
   language: "pt",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["981743770016055328", ""], 
   mongodbUri : "mongodb+srv://andre_andrezinh2:b5LFetVm1ADCooE7@cluster0.vksw71w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   spotifyClientId : "",
   spotifyClientSecret : "",
@@ -17,8 +17,8 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
+      name: "andre_andrezinh2",
+      password: "DforDog123",
       host: "eu-ro-01.wisp.uno",
       port:  9969,
       secure: false
